@@ -41,9 +41,9 @@ ORDER BY no_of_txn DESC
 LIMIT 5;
 ````
 The top 5 customers with the most number of transactions insight:
-- ** Top Customer: Lethabo Hahane with 9 transactions stands out as a high-engagement customer. Tailor strategies to retain and reward such valuable customers.
-- ** Frequent Customers: Those with 6 transactions (Nyiko Baloi, Senzo Chaine, Mahlatse Lebape) are also significant. Focus on personalized strategies to maintain their loyalty.
-- ** Opportunity for Growth: For customers with fewer transactions, such as Karabo Masemola, explore opportunities to increase engagement and transaction frequency.
+- **Top Customer:** Lethabo Hahane with 9 transactions stands out as a high-engagement customer. Tailor strategies to retain and reward such valuable customers.
+- **Frequent Customers:** Those with 6 transactions (Nyiko Baloi, Senzo Chaine, Mahlatse Lebape) are also significant. Focus on personalized strategies to maintain their loyalty.
+- **Opportunity for Growth:** For customers with fewer transactions, such as Karabo Masemola, explore opportunities to increase engagement and transaction frequency.
 
 # Conclusion
 
