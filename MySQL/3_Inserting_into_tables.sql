@@ -153,7 +153,7 @@ VALUES ( 'real_madrid','rm@gmail.com'),
        ( 'kaizer_chiefs','kc@gmail.com'),
        ( 'man_utd', 'mu@yahoo.com'),
        ( 'barcelona', 'barc@yahoo.com'),
-       ( 'alhali', 'alh@otmail.com'),
+       ( 'alhali', 'alh@hotmail.com'),
        ( 'juventus','juv@yahoo.com');
 
 INSERT INTO soccer_manager ( manager_name, manager_number, payment, soccer_id )
