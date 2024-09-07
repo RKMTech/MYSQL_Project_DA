@@ -3,7 +3,7 @@
 
 SQL queries ? [project_MYSQL folder](/Project_MYSQL/)
 # Background
-This is one of my projects to showcase my progress on **SQL** and my improvement to solve complex queries 
+This is one of my projects to showcase my progress in **SQL** and my improvement to solve complex queries 
 
 ### The questions I wanted to answer through my SQL queries were:
 
