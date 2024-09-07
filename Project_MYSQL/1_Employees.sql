@@ -1,5 +1,5 @@
 /*
-QUESTION : Who is the most paid employee per hour
+QUESTION : Who are the most paid employees per hour
 - List the ones hired after the 22nd of January 2024
 - WHY ? Finance depertment requests to compare hourly pay
 - BONUS : Include the supervisors full names

@@ -1,5 +1,5 @@
 /*
-QUESTION : FInd the managers who paid registeration fees for their teams
+QUESTION : Find the managers who paid registeration fees for their teams
 WHY ? We want to know the teams that are already in the tournament
 BONUS : Include the soccer teams name
 */
